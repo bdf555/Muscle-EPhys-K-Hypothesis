@@ -15,4 +15,6 @@ Many figures are generated.  For example, Fig. 9 has Vm vs time.
 
 see comments in file 'output_khypoth_paper.m' for how to generate (matlab version) of plots in paper.
 
+See Microsoft Word document in description folder for details of model.
+
 
